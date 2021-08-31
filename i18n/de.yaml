@@ -5,6 +5,9 @@
 - id: blogHeading
   translation: "Blog"
 
+- id: projectHeading
+  translation: "Projects"
+  
 - id: pageNotFound
   translation: "Entschuldigung, diese Seite existiert nicht."
 
