@@ -22,6 +22,9 @@
 - id: backToPosts
   translation: "Back to posts"
 
+- id: backToProjects
+  translation: "Back to projects"
+
 - id: newerPosts
   translation: "Newer"
 
